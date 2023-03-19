@@ -12,4 +12,4 @@ The project is built upon a DL model that is trained on the `MNIST dataset`. The
 
 
 
-If there are any suggestions or you wish to collaborate with me, kindly mail to [Suhas P Shroff](spshroff03@gmail.com)
+
