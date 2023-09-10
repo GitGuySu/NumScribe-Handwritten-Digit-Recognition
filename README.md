@@ -39,7 +39,7 @@ To run this project on your local machine, follow these steps:
    <br>
 4. Go to the location where your file is stored and run using command prompt:
    <br>
-   `python main.py`
+   `python app.py`
 
 ## Contributors
 
