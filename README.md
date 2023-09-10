@@ -37,7 +37,7 @@ To run this project on your local machine, follow these steps:
    <br>
    `pip install keras pygame`
    <br>
-4. Run the application:
+4. Go to the location where your file is stored and run using command prompt:
    <br>
    `python main.py`
 
